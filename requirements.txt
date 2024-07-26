@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+joblib
+streamlit
+scikit-learn
+pandas-profiling
+streamlit-pandas-profiling
+PyYAML
+ydata-profiling
+imbalanced-learn
+xgboost
